@@ -1,4 +1,3 @@
-// Graph.h
 #ifndef GRAPH_H
 #define GRAPH_H
 
@@ -16,4 +15,4 @@ public:
     std::vector<std::pair<std::string, int>> getNeighbors(const std::string& city);
 };
 
-#endif // GRAPH_H
+#endif 
