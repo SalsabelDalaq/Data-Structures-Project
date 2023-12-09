@@ -1,4 +1,3 @@
-// ShortestPath.h
 #ifndef SHORTESTPATH_H
 #define SHORTESTPATH_H
 
@@ -16,4 +15,4 @@ public:
     std::vector<std::string> findShortestPath(const std::string& start, const std::string& end);
 };
 
-#endif // SHORTESTPATH_H
+#endif 
